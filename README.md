@@ -1,4 +1,4 @@
-# RPGgame_C-lab
+# RPGgame_Cpplab
 
 To start the game, in command line, go to the folder location and type in:
 
